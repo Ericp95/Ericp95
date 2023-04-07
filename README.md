@@ -8,7 +8,8 @@ Mi experiencia académica más destacada fue en el último año, desempeñándom
 Si deseas saber más sobre mí, no dudes en contactarme. ¡Gracias por leer!
 
 🛠️ Principales tecnologías y herramientas
- babel css3 express figma git html5 javascript nodejs postgresql react redux webpack tailwind
+
+babel css3 express figma git html5 javascript nodejs postgresql react redux webpack tailwind
 
 📧 Contactame
 📞 (+54) 3571-569708
