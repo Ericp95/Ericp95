@@ -9,9 +9,9 @@ Si deseas saber más sobre mí, no dudes en contactarme. ¡Gracias por leer!
 
 🛠️ Principales tecnologías y herramientas
 
-babel css3 express figma git html5 javascript nodejs postgresql react redux webpack
+babel css3 express figma git html5 javascript nodejs postgresql react redux webpack Docker
 
 📧 Contactame
-📞 (+54) 3571-569708
+📞 (+54) 3571-593187
 
 📧 erics4palacio@gmail.com
